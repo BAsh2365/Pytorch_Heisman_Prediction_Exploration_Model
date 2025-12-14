@@ -8,8 +8,12 @@ For this prpject we can say that this is the most optimal plot we have.
 
 # Stat predictions (What does a Hiesman winner look like for 2026)
 
-<img width="686" height="240" alt="image" src="https://github.com/user-attachments/assets/53e5002b-8a01-4f9e-93f8-ec791425faad" />
+<img width="767" height="235" alt="image" src="https://github.com/user-attachments/assets/4b59904c-a6bc-455d-b43a-ed5cff89229c" />
 
+
+# notes
+
+the model can be improved with more data. But for my first attempt it seems good enough. Still learning here.
 
 
 # Resources
