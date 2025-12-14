@@ -8,12 +8,15 @@ For this prpject we can say that this is the most optimal plot we have.
 
 # Stat predictions (What does a Hiesman winner look like for 2026)
 
-<img width="767" height="235" alt="image" src="https://github.com/user-attachments/assets/4b59904c-a6bc-455d-b43a-ed5cff89229c" />
+<img width="712" height="152" alt="image" src="https://github.com/user-attachments/assets/1441ea59-ca0e-40b7-8aa4-0aeb160b6ae8" />
+
+Taking a look at the specified stats we would like to see for a WR.
 
 
 # notes
 
 the model can be improved with more data. But for my first attempt it seems good enough. Still learning here.
+in the future, more data i s needed with a more specific question for prediction
 
 
 # Resources
