@@ -1,8 +1,7 @@
 # Pytorch_Heisman_Prediction_Exploration_Model
 Using online resources, datasets and leveraging AI in order to create a PyTorch Model that Predicts the Next Heisman's Winner's stats in CFB.
+<img width="691" height="470" alt="image" src="https://github.com/user-attachments/assets/a49e8c40-b44e-4540-b6ce-5cd2fc8dd04b" />
 
-
-<img width="1390" height="490" alt="image" src="https://github.com/user-attachments/assets/1beb20ff-4bf7-4b51-a572-3f682c6bc639" />
 Not AS accurate as I would like it to be, but after L2 Regulariation with weight decay + Early stopping, it'll have to do! There is a bit of noise on the training dataset side 
 
 
