@@ -26,10 +26,10 @@ https://medium.com/@frederik.vl/interpreting-training-validation-accuracy-and-lo
 
 https://machinelearningmastery.com/using-dropout-regularization-in-pytorch-models/
 
-Use of Claude 4.5 for understanding PyTorch basics (Tensors (data Structure, loading in data, Setting up Linear Reg dropout layers and other knowledge gaps (still learning as always))
+Use of Claude 4.5 for understanding PyTorch basics (Tensors (understanding the Data Structure, loading in data, Setting up Linear Reg dropout layers and other knowledge gaps (still learning as always))
 
 HELPFUL YOUTUBE VIDEOS: 
 
 https://youtu.be/tHL5STNJKag?si=1wzPBd-u-amZUhO6 (Rob Mulla's video on Building a classification PyTorch Model, super helpful)
 
-https://youtu.be/r1bquDz5GGA?si=GxnOYrLa5hSFZ4p7 (PyTorch in 1 Hour by Zachary Huang, used this to understand the overview and loss.backward for Weights and Bias calculation (Partial Derivatives))
+https://youtu.be/r1bquDz5GGA?si=GxnOYrLa5hSFZ4p7 (PyTorch in 1 Hour by Zachary Huang, used this to understand the overview and loss.backward for Weights and Bias calculation (Partial Derivatives) and the math behind PyTorch Functions)
