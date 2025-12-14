@@ -2,10 +2,13 @@
 Using online resources, datasets and leveraging AI in order to create a PyTorch Model that Predicts the Next Heisman's Winner's stats in CFB.
 <img width="691" height="470" alt="image" src="https://github.com/user-attachments/assets/a49e8c40-b44e-4540-b6ce-5cd2fc8dd04b" />
 
-Not AS accurate as I would like it to be, but after L2 Regulariation with weight decay + Early stopping, it'll have to do! There is a bit of noise on the training dataset side 
+Not AS accurate as I would like it to be, but after L2 Regulariation with weight decay + Early stopping, it'll have to do! There is a bit of noise on the training dataset side.
 
+For this prpject we can say that this is the most optimal plot we have.
 
+# Stat predictions (What does a Hiesman winner look like for 2026)
 
+<img width="686" height="240" alt="image" src="https://github.com/user-attachments/assets/53e5002b-8a01-4f9e-93f8-ec791425faad" />
 
 
 
@@ -37,6 +40,12 @@ https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learni
 https://www.linkedin.com/pulse/how-tame-noisy-training-loss-deep-learning-strategies-hallaj-zavareh-ayyqe/
 
 https://www.geeksforgeeks.org/deep-learning/how-to-handle-overfitting-in-pytorch-models-using-early-stopping/
+
+https://datascience.stackexchange.com/questions/52028/understanding-training-and-test-loss-plots
+
+https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/
+
+https://www.kaggle.com/code/ryanholbrook/overfitting-and-underfitting
 
 Use of Claude 4.5 for understanding PyTorch basics (Tensors (understanding the Data Structure), setting up Linear Reg dropout layers class, Data Cleaning, and general Debugging)
 
