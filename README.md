@@ -1,22 +1,23 @@
 # Pytorch_Heisman_Prediction_Exploration_Model
-Using online resources, datasets and leveraging AI in order to create a PyTorch Model that Predicts the Next Heisman's Winner's stats in CFB.
+Using online resources, datasets, and leveraging AI to create a PyTorch Model that predicts the Next Heisman Winner's stats in CFB.
 <img width="691" height="470" alt="image" src="https://github.com/user-attachments/assets/a49e8c40-b44e-4540-b6ce-5cd2fc8dd04b" />
 
 Not AS accurate as I would like it to be, but after L2 Regulariation with weight decay + Early stopping, it'll have to do! There is a bit of noise on the training dataset side.
 
-For this prpject we can say that this is the most optimal plot we have.
+For this project, we can say that this is the most optimal plot.
 
 # Stat predictions (What does a Hiesman winner look like for 2026)
 
 <img width="712" height="152" alt="image" src="https://github.com/user-attachments/assets/1441ea59-ca0e-40b7-8aa4-0aeb160b6ae8" />
 
-Taking a look at the specified stats we would like to see for a WR.
+Taking a look at the specified stats, we would like to see a ballpark range for a WR winning a Heisman Trophy around these stats (the TD stat is a bit exaggerated, as the model is not perfect,so we can assume a ballpark of 20-40 TDs).
+
 
 
 # notes
 
-the model can be improved with more data. But for my first attempt it seems good enough. Still learning here.
-in the future, more data i s needed with a more specific question for prediction
+The model can be improved with more data. But for my first attempt, it seems good enough. Still learning here.
+In the future, more data is needed with a more specific question for prediction
 
 
 # Resources
@@ -26,7 +27,7 @@ https://docs.pytorch.org/docs/stable/index.html
 
 https://www.geeksforgeeks.org/deep-learning/why-do-we-need-to-call-zerograd-in-pytorch/
 
-https://www.geeksforgeeks.org/machine-learning/gradient-descent-in-linear-regression/ (understanding cost functions and how weights are adjusted with criterion measurement)
+https://www.geeksforgeeks.org/machine-learning/gradient-descent-in-linear-regression/ (understanding cost functions and how weights are adjusted with the criterion measurement)
 
 https://machinelearningmastery.com/making-predictions-with-multilinear-regression-in-pytorch/
 
@@ -56,7 +57,7 @@ https://www.kaggle.com/code/ryanholbrook/overfitting-and-underfitting
 
 Use of Claude 4.5 for understanding PyTorch basics (Tensors (understanding the Data Structure), setting up Linear Reg dropout layers class, Data Cleaning, and general Debugging)
 
-Note: I am still learning how to build some of these models, so please bear with me, as I used AI a bit more than I normally would for other projects, however I beleive, for my first exploration project, it went pretty well :). I will definetely revisit this as I gain more knowledge throughout my schooling/side projects.
+Note: I am still learning how to build some of these models, so please bear with me, as I used AI a bit more than I normally would for other projects; however, I believe, for my first exploration project, it went pretty well :). I will definitely revisit this as I gain more knowledge throughout my schooling/side projects.
 
 HELPFUL YOUTUBE VIDEOS: 
 
