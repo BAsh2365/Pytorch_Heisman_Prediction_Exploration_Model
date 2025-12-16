@@ -10,7 +10,7 @@ For this project, we can say that this is the most optimal plot.
 
 UPDATE: increased NN layers and dropout, got a better idea of a more "accurate result" for the model (You can compare both sets of code).
 
-# Stat predictions (What does a Hiesman winner look like for 2026)
+# Stat predictions (What does a Hiesman winner look like on paper for 2026?)
 
 <img width="735" height="151" alt="image" src="https://github.com/user-attachments/assets/9b19df7b-d448-4404-aec4-c616da9a338b" />
 
@@ -18,6 +18,22 @@ UPDATE: increased NN layers and dropout, got a better idea of a more "accurate r
 Taking a look at the specified stats, we would like to see a ballpark range for a WR winning a Heisman Trophy around these stats.
 
 UPDATE: These stats, after adjusting the model, seem to be more accurate. Predictions still stand.
+
+Players to Watch in the SEC (WRs in 2026):
+
+- Zachariah Branch (WR, Georgia, Junior, not declared for the NFL draft yet)
+
+- Mario Carver (WR, Texas A&M, Sophomore)
+
+- Cam Coleman (WR, Auburn, Sophomore)
+
+- Ryan Williams (WR, Alabama, Sophomore)
+
+- Ryan Wingo (WR, Texas, Sophomore)
+
+- Cayden Lee (WR, Ole Miss, Junior, not declared for the NFL draft yet)
+
+  Predictions as of December 16th, 2025.
 
 
 
