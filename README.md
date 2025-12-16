@@ -35,6 +35,14 @@ Players to Watch in the SEC (WRs in 2026):
 
 Previously had: Zachariah Branch (WR, Georgia, Junior); however, all signs point to him entering the draft as of now
 
+The original prediction was:
+- WR
+- SEC
+- 3842 career yards
+- 40 career TDs
+- 293 yards per game
+
+Both models are present in the GitHub repo to compare outcomes.
 
 # notes
 
