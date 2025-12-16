@@ -1,23 +1,30 @@
 # Pytorch_Heisman_Prediction_Exploration_Model
 Using online resources, datasets, and leveraging AI to create a PyTorch Model that predicts the Next Heisman Winner's stats in CFB.
-<img width="691" height="470" alt="image" src="https://github.com/user-attachments/assets/a49e8c40-b44e-4540-b6ce-5cd2fc8dd04b" />
+<img width="1260" height="452" alt="image" src="https://github.com/user-attachments/assets/3c081fcb-963a-41ad-8754-62b023e6df27" />
+<img width="691" height="470" alt="image" src="https://github.com/user-attachments/assets/b516d945-237c-4fd2-97ee-c7d50db77c9b" />
+
 
 Not AS accurate as I would like it to be, but after L2 Regulariation with weight decay + Early stopping, it'll have to do! There is a bit of noise on the training dataset side.
 
 For this project, we can say that this is the most optimal plot.
 
+UPDATE: increased NN layers and dropout, got a better idea of a more "accurate result" for the model (You can compare both sets of code).
+
 # Stat predictions (What does a Hiesman winner look like for 2026)
 
-<img width="712" height="152" alt="image" src="https://github.com/user-attachments/assets/1441ea59-ca0e-40b7-8aa4-0aeb160b6ae8" />
+<img width="735" height="151" alt="image" src="https://github.com/user-attachments/assets/9b19df7b-d448-4404-aec4-c616da9a338b" />
 
-Taking a look at the specified stats, we would like to see a ballpark range for a WR winning a Heisman Trophy around these stats (the TD stat is a bit exaggerated, as the model is not perfect,so we can assume a ballpark of 20-40 TDs).
+
+Taking a look at the specified stats, we would like to see a ballpark range for a WR winning a Heisman Trophy around these stats.
+
+UPDATE: These stats, after adjusting the model, seem to be more accurate. Predictions still stand.
 
 
 
 # notes
 
 The model can be improved with more data. But for my first attempt, it seems good enough. Still learning here.
-In the future, more data is needed with a more specific question for prediction
+In the future, more data is needed with a more specific question for prediction.
 
 
 # Resources
