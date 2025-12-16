@@ -21,8 +21,6 @@ UPDATE: These stats, after adjusting the model, seem to be more accurate. Predic
 
 Players to Watch in the SEC (WRs in 2026):
 
-- Zachariah Branch (WR, Georgia, Junior, not declared for the NFL draft yet)
-
 - Mario Carver (WR, Texas A&M, Sophomore)
 
 - Cam Coleman (WR, Auburn, Sophomore)
@@ -35,6 +33,7 @@ Players to Watch in the SEC (WRs in 2026):
 
   Predictions as of December 16th, 2025.
 
+Previously had: Zachariah Branch (WR, Georgia, Junior); however, all signs point to him entering the draft as of now
 
 
 # notes
