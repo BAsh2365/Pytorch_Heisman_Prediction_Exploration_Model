@@ -55,6 +55,10 @@ https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learni
 
 https://www.kaggle.com/code/ryanholbrook/overfitting-and-underfitting
 
+https://discuss.pytorch.org/t/how-to-determine-overfitting-underfitting-and-best-fit-in-deep-learning-what-about-this-graph/62401
+
+https://pyimagesearch.com/2019/10/14/why-is-my-validation-loss-lower-than-my-training-loss/ (Great article explaining training loss and why fluctuations occur)
+
 Use of Claude 4.5 for understanding PyTorch basics (Tensors (understanding the Data Structure), setting up Linear Reg dropout layers class, Data Cleaning, and general Debugging)
 
 Note: I am still learning how to build some of these models, so please bear with me, as I used AI a bit more than I normally would for other projects; however, I believe, for my first exploration project, it went pretty well :). I will definitely revisit this as I gain more knowledge throughout my schooling/side projects.
